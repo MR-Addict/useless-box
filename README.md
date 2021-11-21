@@ -1,14 +1,21 @@
-# useless-box
+## Description
+
 Useless box using two servo motor.
 
-Note that you must apply 5V power to the circuit if you are wiring like my diagram.
+![image04](https://user-images.githubusercontent.com/75357598/142750011-1845fb9e-d0fc-4687-a7d0-463a275785f0.jpg)
+
+## Circuit diagram
+
+Note that you must apply **5V power** to the circuit if you are wiring like my diagram.
 
 ![UselessBox Circuit](https://user-images.githubusercontent.com/75357598/142749071-d61385c7-af4e-42fc-9920-da7d1560b134.png)
 
-![top](https://user-images.githubusercontent.com/75357598/115114708-43364000-9fc3-11eb-8e6d-0cbcf9d688f6.png)
+## Assemble
 
-![bottom](https://user-images.githubusercontent.com/75357598/115114653-0702df80-9fc3-11eb-82ab-9247e6bc6447.png)
+You can use a longer sevo stick to replace the **3D File/Stick.stl** part.
 
-![box](https://user-images.githubusercontent.com/75357598/115114663-108c4780-9fc3-11eb-8d2a-8724eee7962e.png)
+![image03](https://user-images.githubusercontent.com/75357598/142750136-e0261da3-1716-425e-a3fa-2680cf463011.JPG)
 
-https://user-images.githubusercontent.com/75357598/115114480-3b29d080-9fc2-11eb-9dcc-cb3ebec3d438.mp4
+## Presentation Video
+
+https://user-images.githubusercontent.com/75357598/142750349-8485f8f9-0854-4409-b59b-4909fe04149b.mp4

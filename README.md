@@ -1,6 +1,9 @@
-
 # useless-box
-useless box using one servo motor
+Useless box using two servo motor.
+
+Note that you must apply 5V power to the circuit if you are wiring like my diagram.
+
+![UselessBox Circuit](https://user-images.githubusercontent.com/75357598/142749071-d61385c7-af4e-42fc-9920-da7d1560b134.png)
 
 ![top](https://user-images.githubusercontent.com/75357598/115114708-43364000-9fc3-11eb-8e6d-0cbcf9d688f6.png)
 

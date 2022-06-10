@@ -1,21 +1,40 @@
-## Description
+# Useless Box
 
-Useless box using two servo motor.
+## 1. Parts needed
 
-![image04](https://user-images.githubusercontent.com/75357598/142750011-1845fb9e-d0fc-4687-a7d0-463a275785f0.jpg)
+### 1.1 3D Printing
 
-## Circuit diagram
+There are some parts you need to 3D print yourself, 5 of them totally. You can find them in `3D-File/Stl` folder. You can also modify these parts using `solidworks` in `3D-File/Parts` folder.
 
-Note that you must apply **5V power** to the circuit if you are wiring like my diagram.
+![UselessBox-Parts](Images/UselessBox-Parts.png)
 
-![UselessBox Circuit](https://user-images.githubusercontent.com/75357598/142749071-d61385c7-af4e-42fc-9920-da7d1560b134.png)
+### 1.2 Electronic Parts
 
-## Assemble
+In this project, I use `Arduino Uno` as my controller, and you may also need some other parts as BOM table showing below. You can replace some of them if you are familiar with arduino projects.
 
-You can use a longer sevo stick to replace the **3D File/Stick.stl** part.
+|     Electronics      | quantity |                   Image                    |
+| :------------------: | :------: | :----------------------------------------: |
+|     Arduino Uno      |    1     |   ![Arduino-Uno](Images/Arduino-Uno.png)   |
+|    Toggle Swtich     |    1     | ![Toggle-Switch](Images/Toggle-Switch.png) |
+| DC-005 Power Socket  |    1     |         ![DC005](Images/DC005.png)         |
+| HD-1160A Servo Motor |    2     |      ![Servo](Images/Servo-Motor.png)      |
 
-![image03](https://user-images.githubusercontent.com/75357598/142750136-e0261da3-1716-425e-a3fa-2680cf463011.JPG)
+## 2. Assemble
 
-## Presentation Video
+First you need to wire your electronics referring to below diagram.
+
+> Note that you must apply **5V power** to the circuit if you are wiring like my diagram.
+
+![UselessBox-Circuit](Images/UselessBox-Circuit.png)
+
+Then assemble 3D printing parts and wired electronics together.
+
+You can just use the longer servo stick instead of using 3D printing **stick** part like me.
+
+![image03](Images/Assemble.jpg)
+
+Finally, upload arduino code to your board and have fun!
+
+## Presentation
 
 https://user-images.githubusercontent.com/75357598/142750349-8485f8f9-0854-4409-b59b-4909fe04149b.mp4

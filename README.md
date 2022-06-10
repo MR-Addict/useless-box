@@ -12,10 +12,10 @@ There are some parts you need to 3D print yourself, 5 of them totally. You can f
 
 In this project, I use `Arduino Uno` as my controller, and you may also need some other parts as BOM table showing below. You can replace some of them if you are familiar with arduino projects.
 
-|     Electronics      | quantity |                   Image                    |
-| :------------------  | :------: | :----------------------------------------: |
-|     Arduino Uno      |    1     |   ![Arduino-Uno](Images/Arduino-Uno.png)   |
-|    Toggle Swtich     |    1     | ![Toggle-Switch](Images/Toggle-Switch.png) |
+| Electronics          | quantity |                   Image                    |
+| :------------------- | :------: | :----------------------------------------: |
+| Arduino Uno          |    1     |   ![Arduino-Uno](Images/Arduino-Uno.png)   |
+| Toggle Swtich        |    1     | ![Toggle-Switch](Images/Toggle-Switch.png) |
 | DC-005 Power Socket  |    1     |         ![DC005](Images/DC005.png)         |
 | HD-1160A Servo Motor |    2     |   ![Servo-Motor](Images/Servo-Motor.png)   |
 

@@ -8,9 +8,9 @@ There are some parts you need to 3D print yourself, 5 of them totally. You can f
 
 ![UselessBox-Parts](Images/UselessBox-Parts.png)
 
-### 1.2 Electronic Parts
+### 1.2 Electronics
 
-In this project, I use `Arduino Uno` as my controller, and you may also need some other parts as BOM table showing below. Feel free to replace some of them if you are familiar with arduino projects.
+In this project, I use `Arduino Uno` as my controller, and you also need some other parts as BOM table showing below. Feel free to replace some of them if you are familiar with arduino projects.
 
 | Electronics          | quantity |                   Image                    |
 | :------------------- | :------: | :----------------------------------------: |

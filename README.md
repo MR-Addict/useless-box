@@ -4,13 +4,13 @@
 
 ### 1.1 3D Printing
 
-There are some parts you need to 3D print yourself, 5 of them totally. You can find them in `3D-File/Stl` folder. You can also modify these parts using `solidworks` in `3D-File/Parts` folder.
+There are some parts you need to 3D print yourself, 5 of them totally. You can find them in `3D-File/Stl` folder. You can also modify these parts in `3D-File/Parts` folder if you konw how to use solidworks.
 
 ![UselessBox-Parts](Images/UselessBox-Parts.png)
 
 ### 1.2 Electronic Parts
 
-In this project, I use `Arduino Uno` as my controller, and you may also need some other parts as BOM table showing below. You can replace some of them if you are familiar with arduino projects.
+In this project, I use `Arduino Uno` as my controller, and you may also need some other parts as BOM table showing below. Feel free to replace some of them if you are familiar with arduino projects.
 
 | Electronics          | quantity |                   Image                    |
 | :------------------- | :------: | :----------------------------------------: |
@@ -23,13 +23,13 @@ In this project, I use `Arduino Uno` as my controller, and you may also need som
 
 First you need to wire your electronics referring to below diagram.
 
-> Note that you must apply **5V power** to the circuit if you are wiring like my diagram.
+> Note that you must apply **5V power** to the circuit if you are wiring like me.
 
 ![UselessBox-Circuit](Images/UselessBox-Circuit.png)
 
 Then assemble 3D printing parts and wired electronics together.
 
-You can just use the longer servo stick instead of using 3D printing **stick** part like me.
+You can use a longer servo stick instead of using 3D printing **stick** part like I did.
 
 ![image03](Images/Assemble.jpg)
 
